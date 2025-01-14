@@ -38,10 +38,10 @@ module.exports = {
 
   nodes: [
     {
-        name: "Server",
-        host: "nodev4.fypmoon.org",
-        port: 1118,
-        password: "fypmoon.org",
+        name: "INZEWORLD.COM (DE)",
+        host: "lava.inzeworld.com",
+        port: 3128,
+        password: "saher.inzeworld.com",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
